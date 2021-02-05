@@ -82,5 +82,4 @@ background.addEventListener("keydown", ()=>{
         background.className="violet-background";
         menu.classList.remove("visibleMenu")
     }
-
-    })
+})
